@@ -1,0 +1,2 @@
+# stonePaperScissors
+practising javascript basics
